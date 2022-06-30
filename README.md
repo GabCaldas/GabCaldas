@@ -1,8 +1,8 @@
-### Olá! Me chamo Gabriel Caldas!
+### Hi! My name is Gabriel Caldas!
 
-- 🔭 Atualmente sou estudante de Sistemas de Informação na Unifacisa!
-- 🌱 Estudando JavaScript.
-- 😄 Pronomes: Ele/dele
+- 🔭 I am currently a student of Information Systems at Unifacisa!
+- 🌱 Studying JavaScript.
+- 😄 Pronouns: He/Him
 
 <div align="center">
   <a href="https://github.com/GabCaldas">
