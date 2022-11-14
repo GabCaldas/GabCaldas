@@ -1,7 +1,7 @@
 ### Hi! My name is Gabriel Caldas!
 
 - 🔭 I am currently a student of Information Systems at Unifacisa!
-- 🌱 Studying Java!
+- 🌱 Studying React!
 - 😄 Pronouns: He/Him
 
 <div align="center">
