@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/GabCaldas">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabCaldas)](https://github.com/anuraghazra/github-readme-stats)
+  <a href9="https://github-readme-stats.vercel.app/api?username=GabCaldas)](https://github.com/anuraghazra/github-readme-stats">
 </div>
 
 </div>
