@@ -1,26 +1,40 @@
-### Hi! My name is Gabriel Caldas!
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-- 🔭 I am currently a student of Information Systems at Unifacisa!
-- 🌱 Studying React!
-- 😄 Pronouns: He/Him
+## 🖖 Olá, meu nome é <strong>Gabriel Caldas!</strong>
+<h3> Sou um apaixonado por programação e tecnologia!</h3>
 
-<div align="center">
-  <a href="https://github.com/GabCaldas">
-  <img height=180em src="https://github-readme-stats.vercel.app/api?username=GabCaldas&show_icons=true&theme=radical">
-</div>
+- 💻 Explorando novas tecnologias e desenvolvendo soluções de software.
 
-</div>
+## 🚀 Minhas Skills
 
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-</div>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,tailwind,sass,ts,java" />
+  </a>
+</p>
 
-<div>
-<a href="https://www.linkedin.com/in/gabriel-caldas-2570a5235/"> <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white </a>
-</div>
-  
+## 🛠️Ferramentas de desenvolvimento
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,ps,figma,git," />
+  </a>
+</p>
+
+### 📊 Estatísticas
+
+<a href="https://github.com/GabCaldas" title="ilustração do mapeamento de linguagens">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabCaldas&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
+</a>
+
+<br>
+
+### 📱 Minhas redes:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/gabriel-caldas-2570a5235/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=/" alt="LinkedIn"/></a>
+
+  <a href="https://www.instagram.com/gabr_caldas/" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=" alt="Instagram"/></a>
+</p>
