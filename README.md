@@ -4,6 +4,7 @@
 <h3> Sou um apaixonado por programação e tecnologia!</h3>
 
 - 💻 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Graduando de **Sistemas de Infomação** pela <a href="https://unifacisa.edu.br/">Unifacisa</a>.
 
 ## 🚀 Minhas Skills
 
