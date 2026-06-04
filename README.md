@@ -11,7 +11,7 @@
 
 ### 🛠️ OS & Development Setup
 * **System:** CachyOS + Hyprland WM
-* **Editors:** Zed Editor | 
+* **Editor:** Zed
 
 ---
 
