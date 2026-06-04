@@ -2,7 +2,7 @@
   <img src="https://skillicons.dev/icons?i=python,aws&theme=dark" alt="Python & AWS" />
 </p>
 
-## <strong>Gabriel Caldas!</strong>
+## <strong>Gabriel Caldas</strong>
 <h3>AI Engineer | Especialista em IA Generativa & Orquestração Agêntica</h3>
 
 - 🤖 **Explorando o Futuro:** Focado no design e desenvolvimento de sistemas multiagentes, automações inteligentes e arquiteturas orientadas a LLMs.
